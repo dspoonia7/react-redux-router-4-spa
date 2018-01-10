@@ -1,5 +1,5 @@
 
-React application with header and footer using React-router-4 and Redux-form.
+React-16.x application with header and footer using React-router-4 and Redux-form.
 
 =================================
 
