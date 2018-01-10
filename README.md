@@ -1,6 +1,5 @@
 
-react-router-redux template with header and footer using React-router-4 and Redux-form.
-It uses [axios](https://github.com/axios/axios) to make HTTP calls.
+React application with header and footer using React-router-4 and Redux-form.
 
 =================================
 
@@ -11,6 +10,7 @@ It uses [axios](https://github.com/axios/axios) to make HTTP calls.
   git clone https://github.com/dspoonia7/react-spa.git
   ```
 
+
 ### Install dependencies
 
   ```sh
@@ -18,14 +18,12 @@ It uses [axios](https://github.com/axios/axios) to make HTTP calls.
   ```
 
 
-### Initialize
+### Start build with
 
-  ```js
+  ```sh
   npm start
   ```
 
-### TESTING Project :
 
-  ```sh
-     yarn start
-  ```
+### Go to http://localhost:3000
+
